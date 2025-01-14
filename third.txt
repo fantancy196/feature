@@ -1,0 +1,1 @@
+git config --global core.editor "'C:\ProgramData\Microsoft\Windows\Start Menu\Programs\notepad++' -multiInst -notabbar -nosession -noPlugin"
